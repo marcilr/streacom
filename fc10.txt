@@ -1,0 +1,12 @@
+fc10.txt
+Created Mon Jun 25 14:43:00 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+FC10 Fanless Chassis
+
+
+Links
+=====
+FC10 Fanless Chassis
+http://www.streacom.com/products/fc10-fanless-chassis/
