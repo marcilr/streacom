@@ -5,6 +5,32 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 FC10 Fanless Chassis
 
+o Aluminum
+o Mini-ITX, Micro-ATX and Full Size ATX
+o 2x PCIe slots
+o 1x odd
+
+NOTE: No drive bay
+
+
+Specifications
+==============
+Chassis Material:     All aluminum, extruded 4mm thick front, 9mm thick side
+Available Colors:     Silver / Black – Sandblast Finish
+Motherboard Support： Mini-ITX, Micro-ATX and Full Size ATX
+Hard Drive Bays:      3x 2.5″ + 2 x 3.5″
+Optical Drive Bays:   1x Slim slot loading drive, left or right eject button
+Expansion Slot:       2x Full Height Expansion Slots (riser card required)
+USB Ports:            2x Side Facing, USB 3.0 Ready (3.0 cable required)
+Cooling: Heatpipe Direct Touch 4 Pipes – Max CPU TDP 95W**
+Dimension:            435 x 319 x 100mm (W x D x H)
+                      17.76" x 13.02" x 4.082"
+Power Supply:         Nano150, Nano150XT, Nano180XT or
+                      StreaFlex 250 (not Included)
+Remote Control:       MCE Compatible IR Receiver & Remote (not Included)
+Net Weight:           5.4KG
+--www.streacom.com/products/fc10-fanless-chassis/
+
 
 Links
 =====
