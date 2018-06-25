@@ -1,0 +1,12 @@
+streacom.txt
+Created Mon Jun 25 14:40:22 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Streacom fanless chassis
+
+
+Links
+=====
+Streacom
+http://www.streacom.com/
