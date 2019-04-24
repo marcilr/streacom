@@ -1,0 +1,79 @@
+order-20190424.txt
+Created Wed Apr 24 12:47:51 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Streacom FC10 order
+
+2x FC10 ALPHA HTPC Chassis - 
+   Streacom FC10 ALPHA HTPC Chassis   $299.00 (down from $320)   2x $299 = $598
+   (Black, ALPHA (no optical slot)
+   Item #STFC10AL
+
+3x Streacom ST-ZF240 ZeroFlex Fanless 240W PSU                3x $175.00 = $525
+   Yes, ording 1x spare                                       -----------------
+   Item #STZF240                                                  Price: $1,123
+
+Shipping:
+  Method	              Rate
+  -----------------------------------
+  UPS Ground                  $200.59
+  UPS 2nd Day Air             $142.52
+  UPS Next Day Air            $177.13
+  UPS Next Day Air Early AM   $534.19
+  USPS Express Mail           $265.00 <===
+
+Delivery instructions:
+  Leave at door or Raspberry Rd post office pickup
+
+5 items in cart:  $1,123.00
+       Subtotal:  $1,123.00
+       Shipping:    $265.00
+ --------------------------
+ Payment total:   $1,388.00
+
+
+Order #40222   <===
+Order Date:   4/24/2019 1:28 PM
+Status:       Payment Pending
+
+
+Billing address: same as shipping
+
+Created new account:
+  marcilr@gmail.com/...E#3
+
+From:
+  Quiet PC USA, Inc.
+  P.O. Box 288
+  Chicago Park
+  California
+  95712
+  United States
+
+  Telephone: (530)274 7766
+  Fax:       (530)274 7702
+  Sales:     sales@quietpcusa.com
+  Support:   support@quietpcusa.com
+
+  CALL TOLL FREE
+  (877)205-2020
+  10AM - 5PM PST
+
+
+The only difference between the FC10 ALPHA and the FC10 ALPHA OPT
+chassis is that the FC10 ALPHA OPT has a slot for a slot-loading
+optical drive, where the FC10 ALPHA does not.
+--Streacom FC10 ALPHA HTPC Aluminum Fanless Chassis
+  A work of art that beautifully combines form and function.
+  Introducing the FC10, the ultimate fanless HTPC case. 
+  https://www.quietpcusa.com/Streacom-FC10-ALPHA-HTPC-Chassis.aspx
+
+
+Links
+=====
+Streacom FC10 Alpha HTPC Chassis
+https://www.quietpcusa.com/Streacom-FC10-ALPHA-HTPC-Chassis.aspx
+
+Streacom ST-ZF240 ZeroFlex Fanless 240W PSU
+https://www.quietpcusa.com/Streacom-ST-ZF240-ZeroFlex-240W-PSU.aspx
