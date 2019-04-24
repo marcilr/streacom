@@ -5,16 +5,26 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 FC10 Fanless Chassis
 
+o Mobo perhaps:
+  Asus Z370-A II Motherboard
+  like: silentpc.com/fanless-pcs/fc10-fanless-heatpipe-pc
+
 o Aluminum
 o Mini-ITX, Micro-ATX and Full Size ATX
 o 2x PCIe slots
-o 1x odd
+o No odd or drive bay on this one
 
-power: NanoPSU (External AC Adapter + Internal DC to DC)**
-       or ZeroFlex240 (Fanless Internal PSU)**
-       streacom-fc10_alpha_ug1.pdf, p. 3
+o dimensions:
+  Width: 17.1" (435mm)
+  Depth: 12.5" (319mm)
+  Height: 3.9" (100mm)
+  --silentpc.com/fanless-pcs/fc10-fanless-heatpipe-pc
 
-NOTE: No drive bay
+o weight: 19lbs
+
+o power: NanoPSU (External AC Adapter + Internal DC to DC)**
+         or ZeroFlex240 (Fanless Internal PSU)**
+         streacom-fc10_alpha_ug1.pdf, p. 3
 
 The only difference between the FC10 ALPHA and the FC10 ALPHA OPT
 chassis is that the FC10 ALPHA OPT has a slot for a slot-loading
@@ -35,6 +45,22 @@ o Compatible with Mini-ITX, Micro-ATX and Full Size ATX motherboards
   Introducing the FC10, the ultimate fanless HTPC case.
   https://www.quietpcusa.com/Streacom-FC10-ALPHA-HTPC-Chassis.aspx
 
+
+o Intel Socket 1151 for 8th/9th Generation Processors
+o Up to 64GB of DDR4 Memory
+o Up to 6X USB 3.1 Gen. 2
+o Up to 2X M.2 Drives
+o Up to 5X SATA Drives
+o Completely Fanless
+o Uses Heatpipes and Radiator Case for Noiseless Cooling
+o Zero Noise!
+o Zero Dust!
+We default the Streacom FC10 Alpha with a reasonably-priced,
+but high-end Asus Z370-A II Motherboard.  Our Z370 motherboards
+are capable of supporting up to two NVMe M.2 drives, and
+support 6-core 8th/9th generation Coffee Lake CPUs.
+--FC10 Fanless Heatpipe PC
+  https://silentpc.com/fanless-pcs/fc10-fanless-heatpipe-pc
 
 
 Specifications
