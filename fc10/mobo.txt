@@ -14,8 +14,7 @@ o 64 GB or better
 o 2x M.2/
 o 2x LAN/
 o 1x vga and 1x hdmi or 2x hdmi
-o odd blu-ray <=== Negative fanless units
-                   for storage with no odd
+o odd blu-ray <=== No odd, fanless unit
 o 2x usb 3.0 or 3.1
 
 
