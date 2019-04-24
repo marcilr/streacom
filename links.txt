@@ -8,8 +8,5 @@ Streacom related links
 
 Links
 =====
-FC10 Fanless Chassis
-http://www.streacom.com/products/fc10-fanless-chassis/
-
 Streacom
 http://www.streacom.com/
