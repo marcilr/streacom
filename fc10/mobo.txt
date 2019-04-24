@@ -1,0 +1,18 @@
+mobo.txt
+Created Wed Apr 24 13:58:49 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Still need to spec out and order mobos for the
+new FC10 chassis.
+
+Requirements:
+o ATX, Micro-ATX and Mini-ITX (Heatpipe Compatibility Dependent)
+  Compatible board list?
+o amd preferred
+o 64 GB or better
+o 1 TB ssd or M2
+o 2x hdmi
+o odd blu-ray <=== Negative fanless units
+                   for storage with no odd
+o 2x usb 3.0 or 3.1
