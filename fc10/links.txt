@@ -19,3 +19,11 @@ Streacom FC10 ALPHA HTPC Chassis
 Streacom STFC10AL
 price: $299.00
 https://www.quietpcusa.com/Search.aspx?k=Streacom&gclid=Cj0KCQjwkoDmBRCcARIsAG3xzl8UbH4n2td7rJtQy0ouioXKUlIqB-WSZSolVjVLGdUiEGydvQ7_RoAaAryLEALw_wcB
+
+Streacom ST-ZF240 ZeroFlex 240W Passive PSU
+price: $175.00
+1. Totally passive 240W Power Supply
+2. Installed inside the chassis
+3. Designed for Streacom FC5, FC9 and FC10 chassis
+4. 93% efficiency rating
+https://www.quietpcusa.com/Streacom-ST-ZF240-ZeroFlex-240W-PSU.aspx
