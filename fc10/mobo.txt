@@ -16,3 +16,45 @@ o 2x hdmi
 o odd blu-ray <=== Negative fanless units
                    for storage with no odd
 o 2x usb 3.0 or 3.1
+
+
+Links
+=====
+Motherboard and two m.2 storage options
+Tom's Hardware Forum
+starterscooter22, Jul 6, 2018
+References Gigabyte H370 AORUS GAMING 3 WIFI (rev. 1.0) mobo
+o SAMSUNG 860 EVO Series M.2 2280 500GB
+  SATA III 3D NAND Internal Solid State Drive (SSD) MZ-N6E500BW
+  price: $89.99
+  https://www.newegg.com/Product/Product.aspx?Item=9SIA12K6V09508&cm_re=500gb_samsung_evo_sata-_-20-147-677-_-Product 
+    or
+o Corsair Force MP300 M.2 2280 480GB PCI-Express 3.0 x2,
+  NVME 1.3 3D TLC Internal Solid State Drive (SSD) CSSD-F480GBMP300.
+  price: $190.25
+  https://www.newegg.com/Product/Product.aspx?Item=N82E16820236395
+Followup:
+  "There is no good reason not to use the Corsair x2 NVME SSD
+   other than price. NVME SSD's cost a bit more than Sata SSD's."
+https://forums.tomshardware.com/threads/motherboard-and-two-m-2-storage-options.3326540/
+
+
+Noticed:
+  SAMSUNG 860 EVO Series M.2 2280 2TB SATA III
+  3D NAND Internal Solid State Drive (SSD) MZ-N6E2T0BW
+  price: $347.29 (April 24, 2019)
+  6x $347.29 = $2,083.74
+  https://www.newegg.com/Product/Product.aspx?item=N82E16820147681
+
+  SAMSUNG 860 EVO Series M.2 2280 1TB SATA III V-NAND
+  3-bit MLC Internal Solid State Drive (SSD) MZ-N6E1T0BW
+  price: $167.65 (April 24, 2019)
+  https://www.newegg.com/Product/Product.aspx?item=N82E16820147678
+
+  Corsair Force MP300 M.2 2280 960GB PCI-Express 3.0 x2,
+  NVME 1.3 3D TLC Internal Solid State Drive (SSD) CSSD-F960GBMP300
+  o M.2 2280
+  o 960GB
+  o PCI-Express 3.0 x2, NVME 1.3
+  price: $309.85 (April 24, 2019)
+  https://www.newegg.com/Product/Product.aspx?item=N82E16820236396
