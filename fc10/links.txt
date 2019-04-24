@@ -1,0 +1,15 @@
+links.txt
+Created Wed Apr 24 12:28:21 AKDT 2019
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Streacom FC10 related links
+
+
+Links
+=====
+FC10 Fanless Chassis
+http://www.streacom.com/products/fc10-fanless-chassis/
+
+Quitpc FC10 Alpha
+https://www.quietpc.com/st-fc10-alpha
