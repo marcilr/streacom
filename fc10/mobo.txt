@@ -58,3 +58,20 @@ Noticed:
   o PCI-Express 3.0 x2, NVME 1.3
   price: $309.85 (April 24, 2019)
   https://www.newegg.com/Product/Product.aspx?item=N82E16820236396
+
+
+Links
+=====
+Any mini itx have dual m.2 drives?
+"asus strix z270 and z370i both have dual m.2 drives.
+So does the gigabyte z370n and the asrock x99 and x299"
+"z370i rog strix"
+gigabyte z370n sounds good
+From amazon:
+GIGABYTE Z370N WIFI (Intel LGA1151/ Z370/ Mini-ITX/ 2xM.2/ 
+2xLAN/ Onboard Wi-Fi/ HDMI 2.0a/ PCIe Bifurcation/
+USB3.1 Gen1 Type-C/ 2x2 11ac Wireless/ RGB Fusion/
+Smart Fan 5/ DP/ Motherboard)
+Only 2 DIMM slots on above
+https://www.reddit.com/r/sffpc/comments/820dup/any_mini_itx_have_dual_m2_drives/
+
