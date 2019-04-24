@@ -10,6 +10,10 @@ o Mini-ITX, Micro-ATX and Full Size ATX
 o 2x PCIe slots
 o 1x odd
 
+power: NanoPSU (External AC Adapter + Internal DC to DC)**
+       or ZeroFlex240 (Fanless Internal PSU)**
+       streacom-fc10_alpha_ug1.pdf, p. 3
+
 NOTE: No drive bay
 
 The only difference between the FC10 ALPHA and the FC10 ALPHA OPT
