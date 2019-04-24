@@ -12,6 +12,26 @@ o 1x odd
 
 NOTE: No drive bay
 
+The only difference between the FC10 ALPHA and the FC10 ALPHA OPT
+chassis is that the FC10 ALPHA OPT has a slot for a slot-loading
+optical drive, where the FC10 ALPHA does not.
+--Streacom FC10 ALPHA HTPC Aluminum Fanless Chassis
+  A work of art that beautifully combines form and function.
+  Introducing the FC10, the ultimate fanless HTPC case. 
+  https://www.quietpcusa.com/Streacom-FC10-ALPHA-HTPC-Chassis.aspx
+
+
+o Fully fanless HTPC chassis
+o Direct touch passive CPU cooler
+o Two USB 3.0 ports
+o New universal optical drive eject mechanism
+o Compatible with Mini-ITX, Micro-ATX and Full Size ATX motherboards
+--Streacom FC10 ALPHA HTPC Aluminum Fanless Chassis
+  A work of art that beautifully combines form and function.
+  Introducing the FC10, the ultimate fanless HTPC case.
+  https://www.quietpcusa.com/Streacom-FC10-ALPHA-HTPC-Chassis.aspx
+
+
 
 Specifications
 ==============
