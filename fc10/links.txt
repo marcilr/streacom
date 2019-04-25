@@ -31,3 +31,7 @@ price: $175.00
 3. Designed for Streacom FC5, FC9 and FC10 chassis
 4. 93% efficiency rating
 https://www.quietpcusa.com/Streacom-ST-ZF240-ZeroFlex-240W-PSU.aspx
+
+Streacom's FC10 and Nano150: Building a Fanless Ivy Bridge HTPC
+by Ganesh T S on December 22, 2012 3:30 AM EST
+https://www.anandtech.com/show/6523/streacoms-fc10-and-nano150-building-a-fanless-ivy-bridge-htpc/4
